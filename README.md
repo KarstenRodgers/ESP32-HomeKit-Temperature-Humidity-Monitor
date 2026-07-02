@@ -10,4 +10,19 @@ A smart temperature and humidity sensor based on ESP32, DHT22 and SSD1306 OLED, 
 - Apple HomeKit integration
 - OLED display
 - WiFi support
-- OTA ready (optional)
+
+## Hardware
+- ESP32 DevKit
+- DHT22
+- SSD1306 OLED
+- Jumper wires
+- Breadboard
+
+## Software
+- Arduino IDE
+
+## Libraries
+- HomeSpan
+- Adafruit SSD1306
+- Adafruit GFX
+- DHT sensor library
