@@ -31,8 +31,8 @@ A smart temperature and humidity sensor based on ESP32, DHT22 and SSD1306 OLED, 
 
 | ESP32 | Device |
 |--------|--------|
-| GPIO4 | DHT22 Data |
-| GPIO21 | OLED SDA |
-| GPIO22 | OLED SCL |
+| GPIO26 | DHT22 Data |
+| GPIO32 | OLED SDA |
+| GPIO33 | OLED SCL |
 | 3.3V | VCC |
 | GND | GND |
